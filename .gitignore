@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/GitHubChecks/.vs
+/src/GitHubChecks/bin
+/src/GitHubChecks/obj
