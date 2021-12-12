@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IssuePuller": {
+      "commandName": "Project",
+      "commandLineArgs": "25588 38128"
+    }
+  }
+}
