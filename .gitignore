@@ -5,3 +5,6 @@
 /src/GitHubChecks/.vs
 /src/GitHubChecks/bin
 /src/GitHubChecks/obj
+/src/IssuePuller/.vs
+/src/IssuePuller/bin
+/src/IssuePuller/obj
